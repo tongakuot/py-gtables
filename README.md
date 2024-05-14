@@ -1,6 +1,7 @@
 # Welcome to the Great Tables Repository
 
 ![Credits: Great Tables Website](image.png)
+**Image Credits:** Great Tables Website
 
 This repository serves as an illustrative guide to showcase the usage of the `Great Tables` package in my everyday data science projects. I have been utilizing `gt` (along with `gtExtras`) for tabular data manipulation since May 2018, but recently I am transitioning to `Python` for my data science projects. In the process, I will be using the `Great Tables` library instead of `gt` for all my personal and professional tabulation requirements.
 
